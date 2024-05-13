@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92947386473",
+    "project_id": "real-house-c917a",
+    "storage_bucket": "real-house-c917a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92947386473:android:fd4c97d8ac9443ca2b12f8",
+        "android_client_info": {
+          "package_name": "com.example.realhouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCob-72Wx7MQlzNJF9qDhNAkdp0qsRupg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
