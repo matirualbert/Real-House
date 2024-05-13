@@ -49,7 +49,7 @@ fun Opening(navController: NavHostController) {
         verticalArrangement = Arrangement.SpaceAround
     ) {
 
-        Text(text = "Welcome Champ",
+        Text(text = "Welcome Champ.",
             color = Color.White,
             fontWeight = FontWeight.Bold,
             fontFamily = FontFamily.Default,

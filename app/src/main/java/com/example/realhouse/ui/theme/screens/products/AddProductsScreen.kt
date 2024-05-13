@@ -71,7 +71,7 @@ fun AddProductsScreen(navController: NavHostController){
             value = productName,
             onValueChange = { productName = it },
             shape = RoundedCornerShape(30.dp),
-            label = { Text(color = Color.White, text = "Name of House ") },
+            label = { Text(color = Color.White, text = "House Description") },
             keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Text),
             colors = OutlinedTextFieldDefaults.colors(
                 unfocusedBorderColor = Pink

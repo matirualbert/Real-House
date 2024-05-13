@@ -100,7 +100,7 @@ fun Home(navController: NavHostController) {
                     TopAppBar(
                         title = {
                             Text(color = Color.Unspecified,
-                                text = "Real House",
+                                text = "Rentals",
                                 fontFamily = FontFamily.Default,
                                 fontWeight = FontWeight.Bold,
                                 fontSize = 30.sp)

@@ -57,7 +57,7 @@ fun ViewProductsScreen(navController:NavHostController) {
             horizontalAlignment = Alignment.CenterHorizontally,
             verticalArrangement = Arrangement.Center
         ) {
-            Text(text = "All products",
+            Text(text = "All Properties",
                 fontSize = 30.sp,
                 fontWeight = FontWeight.Bold,
                 fontFamily = FontFamily.Default,
@@ -107,11 +107,6 @@ fun ProductItem(name:String, quantity:String, price:String, id:String,
                 Text(text = "Delete")
             }
             Spacer(modifier = Modifier.width(10.dp))
-            Button(onClick = {
-                //navController.navigate("$VIEW_UPDATE_URL/$id")
-            }) {
-                Text(text = "Update")
-            }
         }
     }
 }
